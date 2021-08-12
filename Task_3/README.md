@@ -9,7 +9,7 @@
 0x36F7dEEd761F6245532c4b9C8168AfD86f0B20A1
 
 4.The contract address that you called
-[
+```json[
     {
       "inputs": [],
       "stateMutability": "payable",
@@ -41,4 +41,4 @@
       "stateMutability": "view",
       "type": "function"
     }
-]
+]```
